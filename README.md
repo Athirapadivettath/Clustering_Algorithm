@@ -1,5 +1,4 @@
 # Clustering_Algorithm
-# Clustering Assignment
 
 ## Objective
 This project applies clustering techniques to the Iris dataset to group similar data points. The goal is to compare different clustering methods and visualize their results.
